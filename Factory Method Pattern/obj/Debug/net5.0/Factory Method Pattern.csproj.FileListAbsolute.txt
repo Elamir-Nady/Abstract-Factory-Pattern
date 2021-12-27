@@ -1,0 +1,16 @@
+D:\Projects\DotNet\Design Patterns\Factory Method Pattern\Factory Method Pattern\bin\Debug\net5.0\Factory Method Pattern.exe
+D:\Projects\DotNet\Design Patterns\Factory Method Pattern\Factory Method Pattern\bin\Debug\net5.0\Factory Method Pattern.deps.json
+D:\Projects\DotNet\Design Patterns\Factory Method Pattern\Factory Method Pattern\bin\Debug\net5.0\Factory Method Pattern.runtimeconfig.json
+D:\Projects\DotNet\Design Patterns\Factory Method Pattern\Factory Method Pattern\bin\Debug\net5.0\Factory Method Pattern.runtimeconfig.dev.json
+D:\Projects\DotNet\Design Patterns\Factory Method Pattern\Factory Method Pattern\bin\Debug\net5.0\Factory Method Pattern.dll
+D:\Projects\DotNet\Design Patterns\Factory Method Pattern\Factory Method Pattern\bin\Debug\net5.0\ref\Factory Method Pattern.dll
+D:\Projects\DotNet\Design Patterns\Factory Method Pattern\Factory Method Pattern\bin\Debug\net5.0\Factory Method Pattern.pdb
+D:\Projects\DotNet\Design Patterns\Factory Method Pattern\Factory Method Pattern\obj\Debug\net5.0\Factory Method Pattern.csproj.AssemblyReference.cache
+D:\Projects\DotNet\Design Patterns\Factory Method Pattern\Factory Method Pattern\obj\Debug\net5.0\Factory Method Pattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\DotNet\Design Patterns\Factory Method Pattern\Factory Method Pattern\obj\Debug\net5.0\Factory Method Pattern.AssemblyInfoInputs.cache
+D:\Projects\DotNet\Design Patterns\Factory Method Pattern\Factory Method Pattern\obj\Debug\net5.0\Factory Method Pattern.AssemblyInfo.cs
+D:\Projects\DotNet\Design Patterns\Factory Method Pattern\Factory Method Pattern\obj\Debug\net5.0\Factory Method Pattern.csproj.CoreCompileInputs.cache
+D:\Projects\DotNet\Design Patterns\Factory Method Pattern\Factory Method Pattern\obj\Debug\net5.0\Factory Method Pattern.dll
+D:\Projects\DotNet\Design Patterns\Factory Method Pattern\Factory Method Pattern\obj\Debug\net5.0\ref\Factory Method Pattern.dll
+D:\Projects\DotNet\Design Patterns\Factory Method Pattern\Factory Method Pattern\obj\Debug\net5.0\Factory Method Pattern.pdb
+D:\Projects\DotNet\Design Patterns\Factory Method Pattern\Factory Method Pattern\obj\Debug\net5.0\Factory Method Pattern.genruntimeconfig.cache
